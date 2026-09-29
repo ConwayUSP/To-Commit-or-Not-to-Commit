@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-SCENE VI. Another room in the castle.
-=======
 SCENE VII. Another room in the castle.
->>>>>>> origin/fix/add-act4-scene
 Enter KING CLAUDIUS and LAERTES
 KING CLAUDIUS
 Now must your conscience my acquaintance seal,
